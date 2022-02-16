@@ -2,12 +2,12 @@
 // 
 // Interface definition for linked list.
 //
-// <Author>
+// J'nya Reese
 
 #include <stdbool.h>
 
 typedef struct block {
-    int pid;   // pid
+  int pid;   // pid
 	int start;
   int end;
 }block_t;

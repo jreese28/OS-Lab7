@@ -1,5 +1,3 @@
-
-   
 // list/list.c
 // 
 // Implementation for linked list.
